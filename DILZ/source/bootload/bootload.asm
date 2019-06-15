@@ -1,5 +1,5 @@
 ; ==================================================================
-; The Aqua_Seven_OS Operating System bootloader
+; The Dilz_OS Operating System bootloader
 ; ==================================================================
 
 
