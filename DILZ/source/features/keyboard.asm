@@ -1,5 +1,5 @@
 ; ==================================================================
-; Auqa_Seven_OS -- The Aqua_Seven_OS Operating System kernel
+; Dilz_OS -- The Dilz Operating System kernel
 ;
 ; KEYBOARD HANDLING ROUTINES
 ; ==================================================================
